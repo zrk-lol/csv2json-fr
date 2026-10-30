@@ -1,0 +1,23 @@
+{
+  "name": "csv2json-fr",
+  "version": "1.0.0",
+  "description": "Convertit un CSV (virgule ou point-virgule, format Excel FR) en JSON propre.",
+  "type": "module",
+  "bin": {
+    "csv2json": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "author": "Varhex by Ȥrk Team (https://varhex.com)",
+  "repository": "github:zrk-lol/csv2json-fr",
+  "keywords": [
+    "cli",
+    "varhex",
+    "zero-dependency"
+  ]
+}
